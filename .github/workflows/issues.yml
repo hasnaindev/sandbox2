@@ -1,0 +1,10 @@
+name: Issues
+
+on: issues
+
+jobs:
+  issue:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Log
+        run: echo "${{ github }}"
