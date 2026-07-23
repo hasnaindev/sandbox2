@@ -1,4 +1,4 @@
-name: Deployment
+name: Deployment - Inefficent
 
 on: workflow_dispatch
 
